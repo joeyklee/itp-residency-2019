@@ -7,6 +7,7 @@ Repo to document my ITP Something-In-Residency, Spring 2019
 Generally organized around supporting open source / open education, focusing on topics around data visualization, machine learning, and data colleciton, organization, and sharing.
 
 
+# Ideas for how to spend my time
 
 ***
 ***
