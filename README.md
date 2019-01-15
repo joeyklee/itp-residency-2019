@@ -7,7 +7,7 @@ Repo to document my ITP Something-In-Residency, Spring 2019
 Generally organized around supporting open source / open education, focusing on topics around data visualization, machine learning, and data colleciton, organization, and sharing.
 
 
-# Ideas for how to spend my time
+# Brainstorming (see below)
 
 ***
 ***
@@ -27,7 +27,7 @@ Plans:
 ***
 ***
 
-# ML5:
+# ML5: Contributions + DevOps(?) + Community
 
 [ML5](https://ml5js.org/) is "friendly machine learning for the web". ML5 is an open source javascript library built on top of TensorFlow.js -- A JavaScript library for training and deploying ML models in the browser and on Node.js -- aimed to make machine learning approachable for a broad audience of artists, creative coders, and students, directly in the web browser ✨.
 
